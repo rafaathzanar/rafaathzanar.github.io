@@ -1,0 +1,20 @@
+#row1 {
+}
+
+#social {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+}
+
+#icon1 {
+}
+
+#home {
+  background-color: #1e2234;
+}
+
+#navbar1 {
+  background-color: var(--bs-gray-300);
+}
+
